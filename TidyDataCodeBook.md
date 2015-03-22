@@ -21,7 +21,7 @@ The tidyDataSet.txt file contains the following 4 columns:
 
 
 | feature                        |         raw data feature name       |
-|----------------------------------------------------------------------|
+| :------------------------------|:------------------------------------|
 | tBodyAcc_mean_X                |         tBodyAcc-mean()-X           | 
 | tBodyAcc_mean_Y                |         tBodyAcc-mean()-Y           |
 | tBodyAcc_mean_Z                |         tBodyAcc-mean()-Z           | 
