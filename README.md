@@ -16,7 +16,7 @@ To run the run_analysis.R script all 8 text files listed below must be in the wo
 * x_train.txt
 * y_train.txt
 * subject_train.txt
-* x_text.txt
+* x_test.txt
 * y_test.txt
 * subject_test.txt
 
