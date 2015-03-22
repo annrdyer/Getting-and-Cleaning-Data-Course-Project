@@ -17,6 +17,9 @@ The tidyDataSet.txt file contains the following 4 columns:
 **subject_id:**  An identifier of the subject who carried out the the experiment.  Values are 1-30.  
 
 
+**average:**  The mean value of the feature by activity and subject_id.
+
+
 **feature:**  Contains 66 features for mean and standard deviation measurments.  Feature name and corresponding name from the raw data set are listed below.
 
 
@@ -91,4 +94,3 @@ The tidyDataSet.txt file contains the following 4 columns:
 
 
 
-**average:**  The mean value of the feature by activity and subject_id.
