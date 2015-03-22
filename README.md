@@ -3,7 +3,7 @@
 
 This website contain all input text files and a full description of the experiment and the raw data:
 
-[ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ] 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
 
