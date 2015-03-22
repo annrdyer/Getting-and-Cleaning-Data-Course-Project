@@ -90,4 +90,5 @@ The tidyDataSet.txt file contains the following 4 columns:
 | fBodyBodyGyroJerkMag_std       |         fBodyBodyGyroJerkMag-std()  |
 
 
+
 **average:**  The mean value of the feature by activity and subject_id.
